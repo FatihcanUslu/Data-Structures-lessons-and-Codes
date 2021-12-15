@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1635513897 source:c:\users\ipproo\documents\codeblock\veriyapilari_odev\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1635861678 source:c:\users\ipproo\desktop\veri yapýlarý ödev1\veriyapilari_odev\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
